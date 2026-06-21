@@ -68,6 +68,7 @@ Technologies Used
 
 - Node.js
 - Commander.js
+- clipboardy
 
 Author
 
